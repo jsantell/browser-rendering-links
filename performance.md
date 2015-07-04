@@ -13,3 +13,5 @@
 
 * [Chrome: Perf Audits for Blink & DevTools, CNet, Wikipedia, Time](https://docs.google.com/document/d/1K-mKOqiUiSjgZTEscBLjtjd6E67oiK8H2ztOiq5tigk/view#heading=h.hz6e7660btmo)
 * [Chrome: Paul Lewis profiles jsconf.eu](https://www.youtube.com/watch?v=QU1JAW5LRKU)
+* [Chrome: React Performance](https://aerotwist.com/blog/react-plus-performance-equals-what/)
+* [Chrome: Perf Audits for Reddit Mobile](https://github.com/reddit/reddit-mobile/issues/247)
