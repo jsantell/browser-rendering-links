@@ -15,3 +15,4 @@
 * [Chrome: Paul Lewis profiles jsconf.eu](https://www.youtube.com/watch?v=QU1JAW5LRKU)
 * [Chrome: React Performance](https://aerotwist.com/blog/react-plus-performance-equals-what/)
 * [Chrome: Perf Audits for Reddit Mobile](https://github.com/reddit/reddit-mobile/issues/247)
+* [Chrome: jQuery: elem.is(':visible') calls native webkitMatchesSelector](https://github.com/jquery/jquery/issues/2042)
