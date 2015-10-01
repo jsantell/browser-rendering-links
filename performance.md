@@ -16,3 +16,4 @@
 * [Chrome: React Performance](https://aerotwist.com/blog/react-plus-performance-equals-what/)
 * [Chrome: Perf Audits for Reddit Mobile](https://github.com/reddit/reddit-mobile/issues/247)
 * [Chrome: jQuery: elem.is(':visible') calls native webkitMatchesSelector](https://github.com/jquery/jquery/issues/2042)
+* [Chrome: Doing a Perf Audit of your Polymer App (The Polymer Summit 2015)](https://www.youtube.com/watch?v=SkN5Q7nf7Vg)
